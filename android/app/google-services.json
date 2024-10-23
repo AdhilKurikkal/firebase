@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "949084502977",
+    "project_id": "flit-crud-cf324",
+    "storage_bucket": "flit-crud-cf324.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949084502977:android:e6089090e69523f2488d40",
+        "android_client_info": {
+          "package_name": "Cvs_flutter.crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949084502977-du0mlaaubg896rgp5slasga49gnpfc3d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "Cvs_flutter.crud",
+            "certificate_hash": "529c882bb847b06047bad97dfb90547f9cb36b50"
+          }
+        },
+        {
+          "client_id": "949084502977-ravkb12jc83hd27hc30i7ga38nbf5v01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqMTaRsWZa2M7D7QcHhf3q9Jqc7JifXrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949084502977-ravkb12jc83hd27hc30i7ga38nbf5v01.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "949084502977-e1i7di2icgqeedm2ftb4jqjokfudmv8a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Cvsflutter.crud"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949084502977:android:10a000ed68379751488d40",
+        "android_client_info": {
+          "package_name": "Cvs_flutter.firebaseui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949084502977-ravkb12jc83hd27hc30i7ga38nbf5v01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqMTaRsWZa2M7D7QcHhf3q9Jqc7JifXrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949084502977-ravkb12jc83hd27hc30i7ga38nbf5v01.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "949084502977-e1i7di2icgqeedm2ftb4jqjokfudmv8a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "Cvsflutter.crud"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
